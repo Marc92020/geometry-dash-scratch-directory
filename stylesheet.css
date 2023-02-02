@@ -1,0 +1,27 @@
+@font-face{ 
+	font-family: 'Pusab';
+	src: url('PUSAB___-webfont[1].ttf')
+}
+body {
+
+  background-image: url('https://raw.githubusercontent.com/Marc92020/geometry-dash-scratch-directory/main/stuff/618cff3e20616-large.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+      h1 {
+         font-family: Pusab
+      }
+#title{
+	color: white;
+	font-size: 40px;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+     text-shadow: 2px 4px 4px rgba(0,0,0,0.3);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
