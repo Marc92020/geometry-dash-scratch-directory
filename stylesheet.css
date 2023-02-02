@@ -32,6 +32,10 @@ p {
     color: white;
 }
 
+a {
+    font-family: Lato;
+}
+
 /* unvisited link */
 a:link {
   color: white;
