@@ -25,3 +25,7 @@ p {
     font-family: aller, helvetica, arial;
     color: white;
 }
+
+.center {
+	text-allign: center;
+}
