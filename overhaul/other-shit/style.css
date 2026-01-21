@@ -11,14 +11,14 @@ body {
 }
 
 h1 {
-   font-family: Pusab
-}
-#title{
+   font-family: Pusab;
 	color: white;
 	font-size: 40px;
 	-webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
-     text-shadow: 2px 4px 4px rgba(0,0,0,0.3);
+    text-shadow: 2px 4px 4px rgba(0,0,0,0.3);
+}
+
 }
 
 p {
